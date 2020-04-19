@@ -1,12 +1,12 @@
-#Priority_Queue
+# Priority_Queue
 
-##[Bài tập] Ưu tiên khám bệnh
+## [Bài tập] Ưu tiên khám bệnh
 
-###Mục đích
+### Mục đích
 
 Luyện tập sử dụng cấu trúc Queue.
 
-###Nội dung
+### Nội dung
 
 Trong quá trình hoạt động hàng đợi bình thường, khi một phần tử bị xóa khỏi hàng đợi, phần tử đó luôn là phần tử đầu tiên đã được chèn vào hàng đợi. Tuy nhiên, có một số ứng dụng của hàng đợi, yêu cầu rằng các phần tử được gỡ bỏ theo một trật tự khác với việc vào trước, ra trước. Khi chúng ta cần mô phỏng ứng dụng như vậy, chúng ta cần phải tạo một cấu trúc dữ liệu được gọi là hàng đợi ưu tiên.
 
